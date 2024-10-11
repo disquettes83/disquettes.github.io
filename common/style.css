@@ -47,7 +47,7 @@ h6 {
 blockquote {
     margin: 0.2em;
     padding: 0 0.2em 0.2em 20px;
-    background: url(/images/icons/quote.png) no-repeat top left;
+    background: url(./images/icons/quote.png) no-repeat top left;
 }
 
 code {
@@ -142,7 +142,7 @@ ul {
     display: block;
     margin: 0;
     padding: 0 20px 15px 0;
-    background: url(/images/layout/10.png) no-repeat bottom left;
+    background: url(./images/layout/10.png) no-repeat bottom left;
     line-height: 1px;
 }
 
@@ -152,7 +152,7 @@ ul {
 }
 
 nav {
-    background: url(/images/layout/20.png) no-repeat top left;
+    background: url(./images/layout/20.png) no-repeat top left;
     padding: 5px 20px 0 20px;
     margin: 60px 0 0 0;
 }
@@ -179,7 +179,7 @@ nav a {
 #badges {
     margin: 0;
     padding: 15px 20px 0 0;
-    background: url(/images/layout/40.png) no-repeat top left;
+    background: url(./images/layout/40.png) no-repeat top left;
 }
 
 #badges li {
@@ -203,7 +203,7 @@ nav a {
     height: 15px;
     float: right;
     padding: 0 0 3px 0;
-    background: url(/images/badges/webstandards.org-mono.png) no-repeat top right;
+    background: url(./images/badges/webstandards.org-mono.png) no-repeat top right;
     margin: 0 0 2px 0;
 }
 
@@ -221,7 +221,7 @@ nav a {
 #badge_wasp:focus,
 #badge_wasp:hover,
 #badge_wasp:active {
-    background: url(/images/badges/webstandards.org.png) no-repeat top right;
+    background: url(./images/badges/webstandards.org.png) no-repeat top right;
 }
 
 #badge_wasp:focus img,
@@ -236,7 +236,7 @@ nav a {
     height: 30px;
     float: right;
     padding: 0;
-    background: url(/images/badges/britpack-mono.png) no-repeat top left;
+    background: url(./images/badges/britpack-mono.png) no-repeat top left;
     margin: 0 0 4px 0;
 }
 
@@ -254,7 +254,7 @@ nav a {
 #badge_britpack:focus,
 #badge_britpack:hover,
 #badge_britpack:active {
-    background: url(/images/badges/britpack.png) no-repeat top left;
+    background: url(./images/badges/britpack.png) no-repeat top left;
 }
 
 #badge_britpack:focus img,
@@ -269,7 +269,7 @@ nav a {
     height: 122px;
     float: right;
     padding: 0;
-    background: url(/images/badges/web_accessibility_book-mono.png) no-repeat top left;
+    background: url(./images/badges/web_accessibility_book-mono.png) no-repeat top left;
     margin: 0 0 4px 0;
 }
 
@@ -287,7 +287,7 @@ nav a {
 #badge_web_accessibility_book:focus,
 #badge_web_accessibility_book:hover,
 #badge_web_accessibility_book:active {
-    background: url(/images/badges/web_accessibility_book.png) no-repeat top left;
+    background: url(./images/badges/web_accessibility_book.png) no-repeat top left;
 }
 
 #badge_web_accessibility_book:focus img,
@@ -302,7 +302,7 @@ nav a {
     height: 100px;
     float: right;
     padding: 0;
-    background: url(/images/badges/sxsw2007-mono.png) no-repeat top left;
+    background: url(./images/badges/sxsw2007-mono.png) no-repeat top left;
     margin: 0 0 4px 0;
 }
 
@@ -320,7 +320,7 @@ nav a {
 #badge_sxsw:focus,
 #badge_sxsw:hover,
 #badge_sxsw:active {
-    background: url(/images/badges/sxsw2007.png) no-repeat top left;
+    background: url(./images/badges/sxsw2007.png) no-repeat top left;
 }
 
 #badge_sxsw:focus img,
@@ -335,7 +335,7 @@ nav a {
     height: 30px;
     float: right;
     padding: 0;
-    background: url(/images/badges/nsdesign-mono.png) no-repeat top left;
+    background: url(./images/badges/nsdesign-mono.png) no-repeat top left;
     margin: 0 0 4px 0;
 }
 
@@ -353,7 +353,7 @@ nav a {
 #badge_nsdesign:focus,
 #badge_nsdesign:hover,
 #badge_nsdesign:active {
-    background: url(/images/badges/nsdesign.png) no-repeat top left;
+    background: url(./images/badges/nsdesign.png) no-repeat top left;
 }
 
 #badge_nsdesign:focus img,
@@ -428,7 +428,7 @@ body#delicious nav a#navdelicious {
 /* using the longhand way for the background, so as not to override any previous background colour definitions */
 .view {
     padding-left: 13px;
-    background-image: url(/images/icons/arrow.png);
+    background-image: url(./images/icons/arrow.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -436,14 +436,14 @@ body#delicious nav a#navdelicious {
 .view:focus,
 .view:hover,
 .view:active {
-    background-image: url(/images/icons/arrow_on.png);
+    background-image: url(./images/icons/arrow_on.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
 
 .back {
     padding-left: 13px;
-    background-image: url(/images/icons/back.png);
+    background-image: url(./images/icons/back.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -451,14 +451,14 @@ body#delicious nav a#navdelicious {
 .back:focus,
 .back:hover,
 .back:active {
-    background-image: url(/images/icons/back_on.png);
+    background-image: url(./images/icons/back_on.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
 
 .category {
     padding-left: 20px;
-    background-image: url(/images/icons/folder.png);
+    background-image: url(./images/icons/folder.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -474,13 +474,13 @@ body#delicious nav a#navdelicious {
 
 a.external {
     padding-left: 13px;
-    background-image: url(/images/icons/external.png);
+    background-image: url(./images/icons/external.png);
     background-repeat: no-repeat;
     background-position: center left;
 }
 
 .testimonial {
-    background: url(/images/icons/quote.png) no-repeat top left;
+    background: url(./images/icons/quote.png) no-repeat top left;
     padding: 0 0 0 17px;
     margin: 1em 0;
 }
@@ -510,7 +510,7 @@ a.external {
 #pager #prev {
     margin-left: 0.5em;
     padding: 0 0 0 10px;
-    background-image: url(/images/icons/prev.png);
+    background-image: url(./images/icons/prev.png);
     background-repeat: no-repeat;
     background-position: center left;
 }
@@ -518,7 +518,7 @@ a.external {
 #pager #next {
     margin-left: 0.5em;
     padding: 0 10px 0 0;
-    background-image: url(/images/icons/next.png);
+    background-image: url(./images/icons/next.png);
     background-repeat: no-repeat;
     background-position: center right;
 }
@@ -530,7 +530,7 @@ table.list {
 
 table.list td.item {
     padding: 1px 0.5em 0 20px;
-    background: url(/images/icons/music.png) no-repeat center left;
+    background: url(./images/icons/music.png) no-repeat center left;
     border-bottom: 1px #f5f5f5 solid;
     margin: 0;
 }
@@ -619,7 +619,7 @@ body#about img#badge {
 body#about #content {
     width: 340px;
     padding-left: 160px;
-    background: url(/images/redux_many_faces.png) no-repeat top left;
+    background: url(./images/redux_many_faces.png) no-repeat top left;
 }
 
 body#about #content ul#projectlist li {
@@ -627,7 +627,7 @@ body#about #content ul#projectlist li {
     border-bottom: 1px #f5f5f5 solid;
     padding-bottom: 0.1em;
     padding-left: 13px;
-    background: url(/images/icons/external.png) no-repeat center left;
+    background: url(./images/icons/external.png) no-repeat center left;
 }
 
 body#about #content ul#projectlist a:visited {
@@ -674,7 +674,7 @@ body#about p.announcement {
 
 body#feeds #content li {
     padding-left: 15px;
-    background-image: url(/images/icons/atom.png);
+    background-image: url(./images/icons/atom.png);
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -704,7 +704,7 @@ body#wishlist #content li {
 
 body#projects #categories li {
     padding-left: 20px;
-    background: url(/images/icons/folder.png) no-repeat center left;
+    background: url(./images/icons/folder.png) no-repeat center left;
     margin: 0;
 }
 
